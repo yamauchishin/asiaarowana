@@ -351,7 +351,7 @@ section.gallery {
 .info {
     position: relative;
     height: 100%;
-    font-size: 1.1em;
+    font-size: 1.2em;
     width: 100%;
 }
 
@@ -372,7 +372,7 @@ section.gallery {
 /*.info {
     position: relative;
     height: 100%;
-    font-size: 1.1em;
+    font-size: 1.2em;
     width: 100%;
 }
 
@@ -402,7 +402,7 @@ section.gallery {
 #stockist .ruby {
     margin-left: .5em;
     font-weight: normal;
-    font-size: .4em;
+    font-size: 1em;
 }
 
 #stockist ul {
